@@ -7,26 +7,27 @@ Situs: https://AYT.co
 
 ### Apa itu AYT?
 
-Alkitab Yang Terbuka (AYT) adalah Alkitab berbahasa Indonesia yang dibuat dan diterbitkan oleh Yayasan Lembaga SABDA (YLSA) dengan dukungan para mitra. AYT bukan Alkitab terjemahan baru, tetapi terjemahan ulang yang berdasar pada bahasa asli (Ibrani dan Yunani), Inggris, Indonesia, dan seluruh peralatan biblika modern serta mempersembahkan sebuah versi Alkitab bahasa Indonesia yang tepat dan bertanggung jawab.
+Alkitab Yang Terbuka (AYT) adalah Alkitab berbahasa Indonesia yang dibuat dan diterbitkan oleh Yayasan Lembaga SABDA (YLSA) dengan dukungan para mitra untuk mempersembahkan sebuah versi Alkitab bahasa Indonesia yang tepat dan bertanggung jawab. AYT bukan Alkitab terjemahan baru, tetapi terjemahan ulang yang berdasar pada bahasa asli (Ibrani dan Yunani), Inggris, Indonesia, dan seluruh peralatan biblika modern.
 
 ### Dataset
 
-Halaman github AYT ini berisikan dataset Alkitab terjemahan versi Alkitab Yang Terbuka (AYT). Saat ini dataset AYT tersedia dalam berbagai format seperti: 
+Halaman github AYT ini berisikan dataset Alkitab terjemahan versi Alkitab Yang Terbuka (AYT). Saat ini, dataset AYT tersedia dalam berbagai format seperti:
 
-- [SFM](sfm/) "Standard Format Markers" yang banyak digunakan oleh banyak komunitas penerjemah Alkitab. Tersedia file-file SFM per-kitab maupun semua kitab dalam format zip.
-- [CSV](./csv/): dengn field: id, book, abbr, chapter, verse, text, title
+- [SFM](sfm/): "Standard Format Markers" yang banyak digunakan oleh banyak komunitas penerjemah Alkitab. Tersedia file-file SFM per-kitab maupun semua kitab dalam format zip.
+- [CSV](./csv/): dengan field: id, book, abbr, chapter, verse, text, title.
 - [JSON](./json/): format data yang dipakai oleh JavaScript.
 - [SQL](./sql/): file untuk menyimpan teks AYT dalam tabel database.
 - [VPL](./vpl/): format teks Alkitab dalam satu baris per ayat yang sering digunakan dalam beberapa program Alkitab, contohnya SWORD.
 - [PDF](./pdf/): dengan ukuran kertas A4.
 
-Selain format-format diatas, masih akan dikembangkan format lain sesuai dengan kebutuhan.
+Selain format-format di atas, masih akan dikembangkan format lain sesuai dengan kebutuhan.
 
 ### Penggunaan AYT
 - Situs AYT: https://ayt.co
 - Situs Alkitab.SABDA.org: https://alkitab.sabda.org/bible.php?version=ayt
 - Situs Alkitab.mobi: https://alkitab.mobi/ayt/
 - Situs BaDeNo: https://sabda.id/badeno/
+- Situs MYSABDA: http://mysabda.com/Study?ver_code=ayt
 - Audio AYT (dng AI): https://audio.sabda.org/bible.php?v=ayt-ai
 - Video Karaoke: https://www.youtube.com/@audioalkitabsabda
 - Aplikasi Android: https://play.google.com/store/apps/details?id=co.ayt, https://play.google.com/store/apps/details?id=co.ayt.bergambar
@@ -53,13 +54,4 @@ AYT  : https://ayt.co
 YLSA : https://ylsa.org
 
 Email: ylsa@sabda.org
-
-This translation is made available to you under the terms of the Creative Commons Attribution-No Derivatives license 4.0.
-
-You may share, redistribute, or adapt this Bible translation or extracts from it in any format, provided that:
-
-  You include the above copyright and source information.
-  You do not use this work for commercial purposes.
-
-Pictures included with Scriptures and other documents on this site are licensed just for use with those Scriptures and documents. For other uses, please contact the respective copyright owners.
 
